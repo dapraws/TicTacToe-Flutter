@@ -1,16 +1,15 @@
-# tictactoedapraws
+# TicTacToe
 
-A new Flutter project.
+Inspired by Mitch Koko from YouTube
 
-## Getting Started
+This Flutter application is a simple yet entertaining implementation of the classic game Tic-Tac-Toe. The app allows users to play against the computer in a single-player mode or challenge their friends in a two-player mode.
 
-This project is a starting point for a Flutter application.
+Key features of this application include:
+- User-friendly interface: A simple yet engaging design that allows players to interact easily with the game board.
+- Two-player mode: Players can invite their friends to play locally, taking turns to place X or O symbols on the game board.
+- Victory notifications: The app provides visual notifications when there's a winner or when the game ends in a draw.
+- Score tracking: Keeps track of scores for each player in two-player mode, providing a more competitive gaming experience.
 
-A few resources to get you started if this is your first Flutter project:
+This app is built using Flutter, ensuring responsive performance across various devices. With its clean interface and straightforward functionality, this Tic-Tac-Toe game is suitable for users of different age groups, offering both fun and an enjoyable challenge.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Moreover, this application can serve as a reference for beginner Flutter developers to understand the fundamental concepts of creating simple game applications using the Flutter framework.
