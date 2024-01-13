@@ -1,6 +1,6 @@
 # TicTacToe
 
-Inspired by Mitch Koko from YouTube
+Inspired by Mitch Koko on YouTube
 
 This Flutter application is a simple yet entertaining implementation of the classic game Tic-Tac-Toe. The app allows users to play against the computer in a single-player mode or challenge their friends in a two-player mode.
 
