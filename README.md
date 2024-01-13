@@ -1,4 +1,4 @@
-# TicTacToe
+# TicTacToe Classic Game
 
 Inspired by Mitch Koko on YouTube
 
